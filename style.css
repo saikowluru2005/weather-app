@@ -8,3 +8,14 @@
 body {
     background-image: linear-gradient(45deg, rgb(20, 222, 124) 0%, rgb(20, 222, 124) 21%, rgb(25, 190, 119) 21%, rgb(25, 190, 119) 37%, rgb(30, 158, 113) 37%, rgb(30, 158, 113) 46%, rgb(35, 126, 108) 46%, rgb(35, 126, 108) 53%, rgb(39, 94, 103) 53%, rgb(39, 94, 103) 59%, rgb(44, 62, 97) 59%, rgb(44, 62, 97) 77%, rgb(49, 30, 92) 77%, rgb(49, 30, 92) 100%);
 }
+
+.card {
+    width: 90%;
+    max-width: 470px;
+    background-color: aqua;
+    color: #ffff;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 40px 35px;
+    text-align: center;
+}
